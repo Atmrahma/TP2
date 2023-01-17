@@ -1,4 +1,4 @@
-# How to use the script
+# How to use the prpgram
 
 ## Mode d'emploi
 
