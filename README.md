@@ -1,4 +1,4 @@
-# How to use the prpgram
+# How to use the program
 
 ## Mode d'emploi
 
